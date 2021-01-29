@@ -1,4 +1,5 @@
-# TRABALHOS PRÁTICOS DA UC REDES DE COMPUTADORES
+# Trabalhos práticos da UC Redes de Computadores
 
 Trabalhos realizados com recurso a uma virtual machine. 
+
 **Classificação: 17.6**
